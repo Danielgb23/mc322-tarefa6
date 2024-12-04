@@ -1,0 +1,50 @@
+Pessoa motorista fc25233f-5204-40bf-b576-bc46af21334f (Carolina) criada com sucesso
+Pessoa passageira c7b6d8b6-f30b-4013-b656-b14b943ab376 (Rodrigo) criada com sucesso
+Pessoa passageira Business 58c1543c-4d7f-43ee-af33-4a384bd63fdb (Felipe) criada com sucesso
+Pessoa passageira VIP 34b705ad-751d-4187-b701-2ec252e5540d (Isabela) criada com sucesso
+Veículo 06c7aa9b-e6ca-4706-8ed2-5743f6255871 (Nissan 2020) criado com sucesso
+Campo name foi atualizado com sucesso!
+Campo name atualizado com sucesso!
+Campo registrationNumber alterado com sucesso
+Corrida chamada por pessoa passageira null de Shopping para Estação de Trem
+Status da corrida: CHAMADA
+Distância calculada: 11.31
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista fc25233f-5204-40bf-b576-bc46af21334f
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Cartão de Crédito
+Valor da corrida definido: 0.4673
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!
+Corrida chamada por pessoa passageira c7b6d8b6-f30b-4013-b656-b14b943ab376 de Parque para Biblioteca
+Status da corrida: CHAMADA
+Distância calculada: 15.3
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista fc25233f-5204-40bf-b576-bc46af21334f
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Pix
+Valor da corrida definido: 73.58
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!
+-----------------------------------
+Fechando e reabrindo banco de dados
+
+Printando dados:
+[Cabbie:fc25233f-5204-40bf-b576-bc46af21334fMartina]
+[Ride: 21d9c106-bcdb-49f0-bd99-7d80c9703037, Ride: 21d9c106-bcdb-49f0-bd99-7d80c9703037, Ride: 64f6a7ae-7d83-4c66-8c38-a797ad6cb1a7]
+[cabbieManager.RidePayment@7e07db1f, cabbieManager.RidePayment@1189dd52]
+[06c7aa9b-e6ca-4706-8ed2-5743f6255871 Nissan 2020]
+[Passenger: rodrigo.santos@email.comEstevão+55 62 95678-9012c7b6d8b6-f30b-4013-b656-b14b943ab376, Passenger: nullnullnullnull, Passenger: nullnullnullnull]
+-----------------------------------
+
+Realizando nova corrida:
+Corrida chamada por pessoa passageira c7b6d8b6-f30b-4013-b656-b14b943ab376 de Parque para Biblioteca
+Status da corrida: CHAMADA
+Distância calculada: 15.3
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista fc25233f-5204-40bf-b576-bc46af21334f
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Pix
+Valor da corrida definido: 73.58
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!

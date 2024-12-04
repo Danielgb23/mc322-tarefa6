@@ -1,0 +1,55 @@
+Pessoa motorista 46a23a43-7e4a-4ab6-9c35-d7f02b63de28 (Mateus) criada com sucesso
+Pessoa passageira 7415e369-36af-4a69-b4e3-e7aa749f3b9e (Felipe) criada com sucesso
+Pessoa passageira(conta empresarial) 854d8f55-18fc-4a68-a326-fd4efdccf9a5 (Fernanda) criada com sucesso
+Pessoa passageira(conta vip) f41f0505-f4f2-4f5b-86a9-80de993c9ee8 (Gabriela) criada com sucesso
+Ve ́ıculo 3fd1943c-08d2-495b-b386-fc24c65857ba (Mazda 2015) criado com sucesso
+Campo name foi atualizado com sucesso!
+Campo name atualizado com sucesso!
+Campo registrationNumber alterado com sucesso
+Corrida chamada por pessoa passageira 854d8f55-18fc-4a68-a326-fd4efdccf9a5 de Shopping para Esta ̧c~ao de Trem
+Status da corrida: CHAMADA
+Dist^ancia calculada: 11.31
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista 46a23a43-7e4a-4ab6-9c35-d7f02b63de28
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Cart~ao de Cr ́edito
+Desconto aplicado: 35.0%
+Valor da corrida definido: 25.792
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!
+Corrida chamada por pessoa passageira 7415e369-36af-4a69-b4e3-e7aa749f3b9e de Parque para Biblioteca
+Status da corrida: CHAMADA
+Dist^ancia calculada: 15.3
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista 46a23a43-7e4a-4ab6-9c35-d7f02b63de28
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Pix
+Valor da corrida definido: 64.84
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!
+-----------------------------------
+Fechando e reabrindo banco de dados
+Printando dados:
+[Cabbie:46a23a43-7e4a-4ab6-9c35-d7f02b63de28Martina]
+[Ride: a2bdb66d-f431-4bf1-856c-1cefaabf3e30, Ride: a2bdb66d-f431-4bf1-856c-1cefaabf3e30,
+Ride: 0aab9bb6-fa60-4f71-bac4-8623b3d46bd9]
+[cabbieManager.RidePayment@6adbc9d, cabbieManager.RidePayment@4550bb58]
+[3fd1943c-08d2-495b-b386-fc24c65857ba Mazda 2015]
+[Passenger: felipe.oliveira@email.comEstev~ao+55 85 93456-78907415e369-36af-4a69-b4e3-e7aa749f3b9e,
+Passenger: fernanda.lima@email.comFernanda+55 67 98901-2345854d8f55-18fc-4a68-a326-fd4efdccf9a5,
+Passenger: gabriela.souza@email.comGabriela+55 12 90123-4567f41f0505-f4f2-4f5b-86a9-80de993c9ee8]
+-----------------------------------
+Realizando nova corrida:
+Corrida chamada por pessoa passageira 7415e369-36af-4a69-b4e3-e7aa749f3b9e de Parque para Biblioteca
+Status da corrida: CHAMADA
+Dist^ancia calculada: 15.3
+
+2
+
+Campo isBusy foi atualizado com sucesso!
+Corrida aceita por pessoa motorista 46a23a43-7e4a-4ab6-9c35-d7f02b63de28
+Status da corrida: EM_PROGRESSO
+Forma de pagamento selecionada: Pix
+Valor da corrida definido: 64.84
+Corrida finalizada
+Campo isBusy foi atualizado com sucesso!
